@@ -1,0 +1,28 @@
+body{
+text-align:center;    
+background-image: url("https://lh3.googleusercontent.com/YGJ77qN9KiwctZgfqV8Bf3hNo0rZvcFaPKDTkvtS6kVbtwyCS80Pm6dpXzJCCLZE1Q");    
+background-position: center;
+background-size: cover;
+}
+#Title{
+font-size: 50px;    
+color: white;
+}
+.text-danger{
+color: lightyellow;    
+}
+h2{
+color: lime;
+}
+#Tete{
+font-size: 40px;    
+color: white;
+}
+#myCanvas{
+border-width:10px;
+background-color: white; 
+border-style:ridge;
+}
+#game_status{
+color: aliceblue;    
+}
